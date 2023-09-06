@@ -1,0 +1,170 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-9322101337669156/8016236605",
+      "banner_admob":"ca-app-pub-9322101337669156/9272961035",
+      "native_admob":"ca-app-pub-9322101337669156/2118571573",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Track1",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14696",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"Track2",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14697",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"Track3",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14698",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track4",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14699",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track5",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14700",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track6",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14701",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track7",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=14702",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track8",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44761",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track9",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44762",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track10",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44763",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track11",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44764",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track12",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44765",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track13",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44766",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track14",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44767",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track15",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44768",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track16",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44769",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track17",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44770",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track18",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44771",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track19",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44772",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track20",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44773",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track21",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44774",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track22",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44775",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track23",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44776",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track24",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44777",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track25",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44778",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track26",
+         "artist":"Mimoun El oujdi",
+         "song_link":"https://www.nozika.co/down.php?s_id=44779",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
